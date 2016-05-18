@@ -1,7 +1,7 @@
 # AngularJS - Aula 03 - Exercício  
 **user:** [charles7421] (https://github.com/charles7421)  
 **autor:** Charles de Freitas Garcia
-
+**date:** 17/05/2016 21:20:00
 
 ## Criar 1 controller de professores, igual aos outros , seguindo nosso último padrão
 
